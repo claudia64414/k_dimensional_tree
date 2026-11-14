@@ -1,6 +1,6 @@
 [project]
 name = "k-dimensional-tree"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pure Python k-d tree implementation for nearest-neighbor and range queries using only the standard library."
 requires-python = ">=3.10"
 dependencies = []
